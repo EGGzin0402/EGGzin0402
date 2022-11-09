@@ -16,15 +16,11 @@
 <div align="center">
 
 <div>
-<br><br><br><br><br>
+<br><br><br>
 <img width=300 src="Coelho2.jpg" align="left">
 </div>
 
-<br><br>
-
 <h2 align="center"> Main skills: </h2>
-
-<br>
 
 <p align="center">
 
@@ -40,8 +36,6 @@
 
 <h2 align="center"> Tools: </h2>
 
-<br>
-
 <p align="center">
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-FFFFFF?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=000000)&nbsp;
@@ -56,8 +50,6 @@
 <br>
 
 <h2 align="center"> Other Knowledge: </h2>
-
-<br>
 
 <p align="center">
 
