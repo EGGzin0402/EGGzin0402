@@ -29,6 +29,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript&labelColor=000000&textColor=000000)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-FFFFFF?style=for-the-badge&logo=bootstrap&labelColor=000000)&nbsp;
+![QA](https://img.shields.io/badge/-Quality%20Assurance-FFFFFF?style=for-the-badge&labelColor=000000)&nbsp;
 
 </p>
 
@@ -44,6 +45,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-FFFFFF?style=for-the-badge&logo=windows&labelColor=000000)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-FFFFFF?style=for-the-badge&logo=microsoft-office&labelColor=000000)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000)&nbsp;
+
 
 </p>
 
