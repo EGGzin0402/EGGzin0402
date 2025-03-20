@@ -1,6 +1,6 @@
 <img align="center" src="Banner1.jpg"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=120&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=2011&height=300&lines=Hello!;I'm+EGGzin;or+Eliel%2C+if+you+want;I'm+a+Developer;And+a+QA;I+love+bunnies+and+studying!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=120&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=2011&height=300&lines=Hello!;I'm+EGGzin;or+Eliel%2C+if+you+want;I'm+a+Developer;And+a+QA;I+love+bunnies,+coffee+and+studying!)](https://git.io/typing-svg)
 
 <div align="center">
 <div>
