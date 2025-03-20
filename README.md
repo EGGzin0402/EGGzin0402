@@ -20,7 +20,11 @@
 <img width=300 src="Coelho2.jpg" align="left">
 </div>
 
-<h2 align="center"> Main skills: </h2>
+<div>
+  
+  ### Main skills:
+  
+---
 
 <p align="center">
 
@@ -35,7 +39,9 @@
 
 <br>
 
-<h2 align="center"> Tools: </h2>
+### Tools: 
+
+---
 
 <p align="center">
 
@@ -52,7 +58,9 @@
 
 <br>
 
-<h2 align="center"> Other Knowledge: </h2>
+### Other Knowledge: 
+
+---
 
 <p align="center">
 
